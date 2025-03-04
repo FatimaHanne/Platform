@@ -1,0 +1,90 @@
+{
+  "utilisateurs": [
+    {
+      "id": "527b",
+      "nomUtilisateur": "Fatima",
+      "mailUtilisateur": "npm init -y",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456"
+    },
+    {
+      "id": "4448",
+      "nomUtilisateur": "Defarsci",
+      "mailUtilisateur": "defarsci.tech@gmail.com",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456"
+    },
+    {
+      "id": "1f01",
+      "nomUtilisateur": "Rama Gn",
+      "mailUtilisateur": "rama02@gmail.com",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456"
+    }
+  ],
+  "publications": [
+    {
+      "id": "f5a4",
+      "textePublication": "nos stagiaires",
+      "imagePublication": "https://scontent.fdkr6-1.fna.fbcdn.net/v/t39.30808-6/475753450_949795633925596_7732299738450586804_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG7CdyoxwZILrxtEM2uKf7w-W1NeavpaCP5bU15q-loI6VYMnnS_zd-wlsCMpLrES-gkbngcvs7xWKsI9Vj0DTC&_nc_ohc=k0GmpuKSq4IQ7kNvgHAFv84&_nc_oc=AdhqgDCPm7CfyP9ls13xr98gCMQ3WdZnlLY_2ZhDdPfZvkIwTsej05F7RSuUb3tvCAc&_nc_zt=23&_nc_ht=scontent.fdkr6-1.fna&_nc_gid=AUGBMG6us75utS0TXICeajE&oh=00_AYCqC5IJD1z4eLvRUMbfEWe3KrScF4I_yMoBi5Ac4pRcAw&oe=67CB951A",
+      "idUtilisateur": "4448",
+      "datePublication": "2025-03-04T10:23:01.664Z",
+      "likePublication": 0,
+      "auteur": "Defarsci"
+    },
+    {
+      "id": "aaa8",
+      "textePublication": "L'equipe de Defarsci",
+      "imagePublication": "https://scontent.fdkr7-1.fna.fbcdn.net/v/t39.30808-6/475772814_949795613925598_64624288408976156_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHiWGgM3ceLr0HA1N0DFeJVNJu08byps8s0m7TxvKmzy8tZq1TCO38UfiRKrKOBtRVclmmAMUQtMwTwe1zv1vyJ&_nc_ohc=OEYVnRzyQ9sQ7kNvgHRe3nw&_nc_oc=Adh2a8lc8zc43A0NKeuil1a4oMSzwIz2tfcNjOCARVoNz69mnqJjUkxNwSlS6AYG0j0&_nc_zt=23&_nc_ht=scontent.fdkr7-1.fna&_nc_gid=AugsJmb1FL_osKjq5wQK1ne&oh=00_AYDf-M4q26duBYpCV0Yn-yCu7AlGWLkMhZFUtP8vqwtSWQ&oe=67CCC40C",
+      "idUtilisateur": "4448",
+      "datePublication": "2025-03-04T10:45:32.278Z",
+      "likePublication": 0,
+      "auteur": "Defarsci"
+    },
+    {
+      "id": "2b56",
+      "textePublication": "Nos Stagiaires",
+      "imagePublication": "https://scontent.fdkr6-1.fna.fbcdn.net/v/t39.30808-6/474799345_946229837615509_7858403157624914682_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHeoI4_D0AMlBEz2-efSnaEeOPKHNQhRhd448oc1CFGF8glGRSNEbKeb_KbRzZqLHzBa3Ef2qQfW8nsMJil8Lem&_nc_ohc=gkFq5oN-g9gQ7kNvgFm_J6v&_nc_oc=AdhqNVXDDjOdBu2o7mbkeLdyHt9mS2YzWqmJGXbG_-bzRb0n7fqpe1zlXtMwRx1cy40&_nc_zt=23&_nc_ht=scontent.fdkr6-1.fna&_nc_gid=AE0Nc9CMovb2LitLGwGGJCY&oh=00_AYAgu2_sWOWc5PZOhosVYS6-CvRrHRc63QEuRYheiPad8A&oe=67CCA651",
+      "idUtilisateur": "4448",
+      "datePublication": "2025-03-04T10:46:39.771Z",
+      "likePublication": 0,
+      "auteur": "Defarsci"
+    },
+    {
+      "id": "5158",
+      "textePublication": "Rapport de fin de stage de nos stagiaires",
+      "imagePublication": "https://scontent.fdkr6-1.fna.fbcdn.net/v/t39.30808-6/474918241_2011658959341616_2927123033711772493_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHiJF0a1aUUqaOx2ViX5D8fWxBe6HxL_5NbEF7ofEv_kxjhtHHehB6ETXgduyDXU1bqZWKcNquq5lPTby8xEMLV&_nc_ohc=7Yya1gvwKooQ7kNvgHzvVuo&_nc_oc=AdicQAwWPHMQcAV4Vnoag7Y_INsEv95MGvMBvxXx415bv0CtgPn_sMs1rnykJM0rGuo&_nc_zt=23&_nc_ht=scontent.fdkr6-1.fna&_nc_gid=Adt_ElCU73JRNH85Fhc9Cs7&oh=00_AYAntZz7AmA13VyMSdBpqy_itwkPl2OC4wXNpybhGyw_2g&oe=67CCB3EF",
+      "idUtilisateur": "4448",
+      "datePublication": "2025-03-04T10:48:59.535Z",
+      "likePublication": 0,
+      "auteur": "Defarsci"
+    },
+    {
+      "id": "1c2c",
+      "textePublication": "Nos domaines",
+      "imagePublication": "https://scontent.fdkr5-1.fna.fbcdn.net/v/t39.30808-6/478357741_959043333000826_2773459369993254219_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_aid=0&_nc_eui2=AeHrqcLTqVMzbN13nR5xY2eb8XHeS3rbeWrxcd5Lett5aiCusYMYeIFQrYjIIjaIQRQ9f8_t2OrvGTI_zFx8CexI&_nc_ohc=mUwdmyqaSI0Q7kNvgFNTmEQ&_nc_oc=AdiybKNK-RnLOqIVXlizWhm89CgnH7nKLn9Yy24IHL1aFQotpJRmSJRoEXw3yKaXb0Q&_nc_zt=23&_nc_ht=scontent.fdkr5-1.fna&_nc_gid=A3BbQk1nohS9Z8mAqC53yBT&oh=00_AYBmCnOoU5oDNKEe0hGEfhW_1Cdy_tsKdBuusu-tPlMuKQ&oe=67CCC6B0",
+      "idUtilisateur": "4448",
+      "datePublication": "2025-03-04T10:51:43.178Z",
+      "likePublication": 0,
+      "auteur": "Defarsci"
+    },
+    {
+      "id": "1079",
+      "textePublication": "Gano Fatimata Booter",
+      "imagePublication": "https://img.freepik.com/photos-gratuite/heureuse-jeune-femme-africaine-tenant-cahiers-du-cafe_171337-14037.jpg?t=st=1741102303~exp=1741105903~hmac=08ab51629d05f59ce1d798b53efaf9f8302a143fe6fef088c785a2c5f047dbf0&w=1060",
+      "idUtilisateur": "1f01",
+      "datePublication": "2025-03-04T15:32:22.099Z",
+      "likePublication": 0,
+      "auteur": "Rama Gn"
+    },
+    {
+      "id": "3df5",
+      "textePublication": "walabokazhbuadzbuiziuaegfuiez",
+      "imagePublication": "https://img.freepik.com/photos-gratuite/jeune-femme-africaine-joyeuse-ecrire-notes-pointant-vers-vous_171337-14017.jpg?t=st=1741102423~exp=1741106023~hmac=a8182745f41223ece0c94d8b14e1230d90e1a98871f2bfd4d91731f2154c8d71&w=1060",
+      "idUtilisateur": "1f01",
+      "datePublication": "2025-03-04T15:34:30.895Z",
+      "likePublication": 0,
+      "auteur": "Rama Gn"
+    }
+  ]
+}

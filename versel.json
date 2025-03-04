@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/api(.*)", "des": "/api/server.js" }
+  ]
+}
